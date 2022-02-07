@@ -1,2 +1,2 @@
-# soal1
-Soal pertama
+# soal3
+Soal ke3
